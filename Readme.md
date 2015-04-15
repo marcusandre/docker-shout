@@ -1,7 +1,7 @@
 
 # shout
 
-  This [Dockerfile](http://docker.io/) runs a simple [shout](http://shout-irc.com) client as a docker container.
+  This [Dockerfile](http://docker.io/) runs a simple [shout](http://shout-irc.com) client inside an [Alpine Linux](http://alpinelinux.org/) container.
 
 ## Usage
 
