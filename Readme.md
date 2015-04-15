@@ -9,9 +9,7 @@
 
     $ docker run -p 9000:9000 marcusandre/shout
 
-  Then access it in your browser via:
-
-    [http://192.168.59.103:9000](http://192.168.59.103:9000)
+  Then access it in your browser via [http://192.168.59.103:9000](http://192.168.59.103:9000).
 
 ## License
 
